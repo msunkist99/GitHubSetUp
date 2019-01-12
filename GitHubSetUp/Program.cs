@@ -10,6 +10,12 @@ namespace GitHubSetUp
     {
         static void Main(string[] args)
         {
+            Console.Title = "GitHubSetUp";
+
+            Console.WriteLine("Experimenting with GitHub Extension for Visual Studio");
+            Console.WriteLine("initial project - origin/master");
+
+            Console.ReadLine();
         }
     }
 }

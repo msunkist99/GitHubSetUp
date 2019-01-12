@@ -19,6 +19,8 @@ namespace GitHubSetUp
 
             Console.WriteLine("20190112B");
 
+            Console.WriteLine("20190112C");
+
             Console.ReadLine();
         }
     }

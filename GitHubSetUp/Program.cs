@@ -15,6 +15,8 @@ namespace GitHubSetUp
             Console.WriteLine("Experimenting with GitHub Extension for Visual Studio");
             Console.WriteLine("initial project - origin/master");
 
+            Console.WriteLine("20190112A");
+
             Console.ReadLine();
         }
     }
